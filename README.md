@@ -1,4 +1,4 @@
-# Analisis-datos-CODIV19-Mexico
+# Analisis-datos-COVID19-Mexico
 Análisis de la base de datos de 81,192 casos de COVID-19 publicada por la Secretaría de Salud de México
 
 En México iniciaron formalmente las medidas de distanciamiento social el 23 de marzo de 2020. Transcurrido poco más de un mes, es importante tener alguna idea de cómo están evolucionando las cosas, más allá del dato diario de casos y las defunciones. Por ello decidí hacer un análisis de la base de casos estudiados, versión al 29 de abril de 2020, que publica la Secretaría de Salud en su página de datos abiertos:
